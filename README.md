@@ -1,5 +1,6 @@
 # Kaggle-What-s-Cooking-Challenge
 Data processing with python and predicting meal type using SVC
+
 Final score based on categorization accuracy: 0.82109 (23rd percentile)
 
 From Kaggle challenge description: 
